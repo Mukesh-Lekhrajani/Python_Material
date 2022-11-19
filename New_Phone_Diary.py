@@ -9,7 +9,7 @@ import win32com.client
 import pyodbc
 
 root = Tk()
-root.title("My Personal Assistant - Phone Diary")
+root.title("My Personal Assistant -- Phone Diary")
 w = root.winfo_screenwidth()
 h = root.winfo_screenheight()
 root.geometry("%dx%d+-8+0" % (w, h))
